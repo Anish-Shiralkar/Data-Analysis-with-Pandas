@@ -1,4 +1,4 @@
-# Eniac Electronics Discount Strategy Review
+# Eniac's Discount Strategy Review
 Skills gained: Data extraction and querying, Data analysis & visualization, Market research 
 
 Languages & tools leveraged: Python's pandas (data cleaning & transforming), Matplotlib (visualization), Seaborn (Visualization), Regex (object pattern identification), Google slides (presentation)
