@@ -1,2 +1,37 @@
-# Data-Analysis-with-Pandas
-Cleaning and transforming data using Pandas library
+# Eniac Electronics Discount Strategy Review
+Situation
+Eniac, a Spanish electronics retailer specializing in Apple products, is re-evaluating its discount strategy. The board and CEO believe the current discounts are too aggressive, leading to lower revenue. They aim to shift focus to high-quality products and compete in the high-priced product market rather than offering cheap products.
+
+Task
+The task involves analyzing the discounts and revenues for Eniac's products using Python, specifically leveraging pandas for data manipulation and matplotlib and seaborn for visualization. The analysis will identify issues in the current discount strategy and provide recommendations for improvement.
+
+Action
+The following steps were taken to analyze and visualize the data:
+
+Data Loading and Inspection:
+
+Loaded the CSV files using pandas.
+Inspected the data for nulls, missing values, incorrect data types, and duplicates.
+Data Cleaning:
+
+Handled null values appropriately.
+Corrected data types where necessary.
+Removed duplicate entries.
+Dropped columns with corrupt data.
+Data Merging:
+
+Merged multiple tables to create a comprehensive dataset for analysis.
+Data Analysis and Visualization:
+
+Conducted exploratory data analysis (EDA) to understand discount patterns and revenue impacts.
+Created visualizations using matplotlib and seaborn to illustrate key insights.
+Analyzed the relationship between discount rates and revenue generation.
+Recommendations:
+
+Provided strategic recommendations on the discount strategy based on the visualizations and analysis.
+Result
+The analysis and visualizations were used to brief the CEO on the following key points:
+
+Current Discount Strategy: The aggressive discounts currently offered are indeed resulting in lower revenue generation.
+Revenue vs. Discount: There is an inverse relationship between discount rates and revenue, suggesting that higher discounts do not necessarily lead to higher sales volumes.
+Product Positioning: Shifting focus to high-quality, high-priced products aligns with the company's goal to compete in the premium market segment.
