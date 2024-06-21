@@ -47,7 +47,7 @@ Keeping discounts offered to high-end products to minimum.
 Diversifying product range.
 Optimize marketing strategies especially during festive seasons.
 
-### Data-Collection Strategy###
+### Data-Collection Strategy ###
 Implement robust data validation at the point of entry to avoid corrupt and invalid data.
 Regularly audit the data for inconsistencies and rectify issues promptly.
 Ensure proper data documentation and standardization to facilitate accurate analysis in the future.
